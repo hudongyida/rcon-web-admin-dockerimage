@@ -1,7 +1,7 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/hudongyida/rcon-web-admin
 )](https://hub.docker.com/r/hudongyida/rcon-web-admin
 )
-[中文](https://github.com/hudongyida/rcon-web-admin-dockerimage/blod/main/README_zh.md)|[English](https://github.com/hudongyida/rcon-web-admin-dockerimage/blob/main/README.md)
+[中文](https://github.com/hudongyida/rcon-web-admin-dockerimage/blob/main/README_zh.md)|[English](https://github.com/hudongyida/rcon-web-admin-dockerimage/blob/main/README.md)
 
 This image lets you run the [rcon-web-admin](https://github.com/rcon-web-admin/rcon-web-admin) as a Docker container
 
