@@ -1,4 +1,9 @@
-此镜像运行将rcon-web-admin做为容器运行
+[![Docker Pulls](https://img.shields.io/docker/pulls/hudongyida/rcon-web-admin
+)](https://hub.docker.com/r/hudongyida/rcon-web-admin
+)
+
+[中文](https://github.com/hudongyida/rcon-web-admin-dockerimage/blob/main/README_zh.md)|[English](https://github.com/hudongyida/rcon-web-admin-dockerimage/blob/main/README.md)
+此镜像运行将[rcon-web-admin](https://github.com/rcon-web-admin/rcon-web-admin)做为容器运行
 
 # 开始
 该项目为独立运行，不依赖其他容器。所以你只需要配置存储卷即可
