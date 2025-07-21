@@ -23,3 +23,6 @@ networks:
     name: rcon
 ```
 you can also use 'docker run' to run containers【extremely not recommended】
+```
+docker run -v db:/rcon-web-admin-0.14.1/db -p 4326:4326 -p 4327:4327 -d
+```
