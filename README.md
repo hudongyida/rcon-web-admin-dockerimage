@@ -8,7 +8,7 @@ This image lets you run the [rcon-web-admin](https://github.com/rcon-web-admin/r
 # start
 This project runs independently and does not rely on other containers, and has no other variables. So you only need to configure the storage volume
 ```yaml
-service: 
+services: 
   web: 
     image: hudongyida/rcon-web-admin
     ports: 
