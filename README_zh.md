@@ -8,7 +8,7 @@
 # 开始
 该项目为独立运行，不依赖其他容器。所以你只需要配置存储卷即可
 ```yaml
-service: 
+services: 
   web: 
     image: hudongyida/rcon-web-admin
     ports: 
